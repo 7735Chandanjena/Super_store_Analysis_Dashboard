@@ -70,5 +70,5 @@ This project analyzes Super Store sales data to provide actionable insights into
 
 *Chandan*
 - Email: jenachandankumar773@gmail.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: 7735Chandanjena
 
