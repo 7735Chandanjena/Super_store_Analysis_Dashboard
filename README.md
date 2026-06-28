@@ -1,10 +1,28 @@
-# Super Store Sales Analysis & Forecasting Dashboard
+# Overview
+Retail businesses generate enormous amounts of transactional data
+every day. Most of it sits unused. This project turns that data
+into something a decision-maker can actually act on.
 
-A comprehensive Power BI dashboard for retail sales performance analysis and 15-day sales forecasting using historical data.
+Built on the Super Store sales dataset, this Power BI dashboard
+covers the full picture — revenue trends, category performance,
+regional breakdowns, customer segments, and shipping patterns —
+all in one place. No spreadsheets, no manual reporting, no waiting.
 
-##  Project Overview
+The dashboard has two layers:
 
-This project analyzes Super Store sales data to provide actionable insights into business performance, identify trends, and forecast future sales. The interactive dashboard enables stakeholders to make data-driven decisions through visual analytics.
+**Performance Analysis** — what has happened. Sales by category,
+region, segment, and time period. Identifies which products are
+driving revenue, which regions are underperforming, and where
+profit margins are being lost.
+
+**15-Day Sales Forecast** — what is likely to happen next.
+Built using historical sales patterns, the forecast gives
+operations and inventory teams enough lead time to act before
+a demand spike or slowdown hits.
+
+The goal was a dashboard that a non-technical stakeholder can
+open, understand in under a minute, and use to make a decision —
+without needing a data analyst in the room to explain it.
 #  Dashboard Preview
 ### Sales Dashboard
   ![Sales Dashboard](01_Sales_analysis_Dashbord.png)
