@@ -1,8 +1,8 @@
-# 📊 Super Store Sales Analysis & Forecasting Dashboard
+# Super Store Sales Analysis & Forecasting Dashboard
 
 A comprehensive Power BI dashboard for retail sales performance analysis and 15-day sales forecasting using historical data.
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project analyzes Super Store sales data to provide actionable insights into business performance, identify trends, and forecast future sales. The interactive dashboard enables stakeholders to make data-driven decisions through visual analytics.
 
